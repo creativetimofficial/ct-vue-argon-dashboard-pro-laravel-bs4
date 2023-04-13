@@ -2,9 +2,9 @@
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-vue-argon-dashboard-pro-laravel-bs4.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-vue-argon-dashboard-pro-laravel-bs4/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-vue-argon-dashboard-pro-laravel-bs4/ct-vue-argon-dashboard-pro-laravel-bs4.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-vue-argon-dashboard-pro-laravel-bs4/issues?q=is%3Aissue+is%3Aclosed)
 
-_Frontend version_: Argon Dashboard v1.2.0. More info at https://www.creative-tim.com/product/argon-dashboard-pro
+_Frontend version_: Argon Dashboard v1.0.0. More info at https://www.creative-tim.com/product/argon-dashboard-pro
 
-_Vue version_: Vue Argon Dashboard v1.2.2. More info at https://www.creative-tim.com/product/vue-argon-dashboard-pro
+_Vue version_: Vue Argon Dashboard v3.0.0. More info at https://www.creative-tim.com/product/vue-argon-dashboard-pro
 
 ![Product Image](https://s3.amazonaws.com/creativetim_bucket/products/693/original/opt_adp_vue_laravel_thumbnail2.jpg)
 
